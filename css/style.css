@@ -1,0 +1,273 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    background-color: #c15355;
+
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+.rightbar {
+    position: absolute;
+    right: 30px;
+    top: 20px;
+}
+/* .navul li:hover{
+    background-color: #41191a;
+} */
+.navul a:hover{
+    color: black;
+    font-size: 28px;
+    text-decoration: underline;
+}
+.navul li {
+    display: inline;
+    padding: 20px;
+}
+
+.logo {
+    padding: 20px;
+    color: white;
+    font-size: 40px;
+    padding-left: 3em;
+    text-transform: uppercase;
+}
+
+.navul a {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 25px;
+}
+
+
+
+.heading {
+    position: absolute;
+    top: 18%;
+    right: 25%;
+    text-align: center;
+    color: white;
+}
+
+.h1head {
+    font-size: 5em;
+}
+
+.container1 {
+    background-color: #c15355;
+    height: 300px;
+}
+
+.para {
+    font-size: 25px;
+}
+
+.button {
+    background-color: #c15355;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    padding: 9px 19px;
+    margin: 0px 30px;
+    font-size: 23px;
+}
+.button:hover{
+    background-color: white;
+    color: #c15355;
+    border: 2px solid #c15355;
+}
+
+.fleft {
+    width: 30%;
+    float: left;
+}
+
+.row {
+    width: 87%;
+    float: right;
+    margin: 80px auto;
+}
+
+.colhead {
+    margin: 30px;
+    font-size: 25px;
+    color: #c15355;
+}
+
+.colpara {
+    margin: 30px;
+    font-size: 18px;
+
+}
+
+.container3 {
+    clear: both;
+    background-color: #c15355;
+    height: 570px;
+}
+
+.headbox {
+    text-align: center;
+    color: white;
+    padding: 30px 0px;
+}
+
+.head1 {
+    font-size: 45px;
+}
+
+.rows2 {
+    margin: 10px auto;
+    width: 77%;
+}
+
+.para2 {
+    font-size: 20px;
+}
+
+.imgbox {
+    height: 208px;
+    width: 208px;
+    border-radius: 50%;
+    margin: 30px 47px;
+}
+.imginfo img:hover{
+    box-shadow: 0px 0px 36px 25px rgb(219, 219, 219);
+}
+.colrow {
+    margin: 14px;
+    box-shadow: 2px 5px 7px 7px rgb(219, 219, 219);
+    float: left;
+    width: 22%;
+    height: 350px;
+}
+
+.hbox {
+    text-align: center;
+    color: white;
+
+}
+
+.aclogo {
+    position: absolute;
+    padding: 20px;
+    width: 200px;
+     right: -45px; 
+   
+    top: -7px;
+}
+
+.airlogo {
+    position: relative;
+}
+
+.imagescene {
+    width: 400px;
+    margin: 0 30px;
+
+}
+
+.columnhead {
+    margin: 0 30px;
+    font-size: 25px;
+    color: #c15355;
+
+}
+
+.container3 {
+    margin: 30px 0px;
+}
+
+.row4 {
+    width: 80%;
+    float: right;
+    margin: 50px auto;
+}
+
+.mright {
+    margin-right: 4em;
+}
+
+.widthh {
+    width: 36%;
+}
+
+.titlehead {
+    text-align: center;
+    margin: 50px;
+    color: #c15355;
+}
+
+.titlee {
+    font-size: 40px;
+}
+
+.tpara {
+    font-size: 20px;
+}
+
+.footdiv {
+    clear: both;
+}
+
+.ulfoot {
+    position: relative;
+}
+
+.footerul {
+    position: absolute;
+    right: 30px;
+    top: 20px;
+
+}
+
+.footerul li {
+    display: inline;
+
+    list-style: none;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.footertext {
+    position: absolute;
+    top: 20px;
+    font-size: 20px;
+    left: 70px;
+    color: #c15355;
+}
+
+.bx {
+    font-size: 30px;
+    padding: 0px 7px;
+    color: #c15355;
+}
+
+.back-to-top-link {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    background-color: #d6e3f0;
+    border: 2px solid #c15355;
+
+    padding: 0.25rem;
+}
+
+.back-to-top-wrapper {
+    position: fixed;
+    top: 80%;
+    right: 20px;
+}
+.bx:hover{
+    font-size: 27px;
+}
